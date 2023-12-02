@@ -1,0 +1,51 @@
+table {
+  width: 100%;
+}
+
+.mat-mdc-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+td,
+th {
+  width: 25%;
+}
+
+.barChat {
+  max-width: 600px;
+  margin: auto;
+}
+
+.btn {
+  padding: 10px;
+  width: max-content;
+  margin-left: 78.25em;
+}
+
+form {
+  max-width: 400px;
+  margin: auto;
+}
+
+span {
+  color: red;
+}
+
+.formFields {
+  margin-right: 60em;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input,
+select {
+  width: 100%;
+  padding: 8px;
+  margin-top: 4px;
+  margin-bottom: 8px;
+  box-sizing: border-box;
+}
